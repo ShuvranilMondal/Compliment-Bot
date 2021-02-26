@@ -14,3 +14,7 @@
 - After all the steps done just simply open compliment.py file and run it !!
 - or you can run exe file only ( need not to install python just doble on exe file )
 - go to dist file and click on compliment bot and enjoy !!
+
+# Screenshot
+
+![{5A91E66E-9D17-49DD-AFC1-196B250CD90D} png](https://user-images.githubusercontent.com/70909882/109302969-133eac00-7860-11eb-8119-7b3d9e4e074c.jpg)
