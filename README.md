@@ -2,6 +2,7 @@
 
 # What is Compliment Bot ?
 - Ccompliment bot is a python based application and this application generates random six compliment lines for the user.
+- it gives voice and written comments according to the user gender.
 
 # How to use Compliment Bot ?
 - User have to put his/her name and gender F or M then hit enter.After that program will execute automatically.
